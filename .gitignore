@@ -38,3 +38,19 @@ build/
 .DS_Store
 
 /node_modules
+src/test/JavaScript/node_modules
+
+src/test/C#/[Dd]ebug/
+src/test/C#/[Dd]ebugPublic/
+src/test/C#/[Rr]elease/
+src/test/C#/[Rr]eleases/
+src/test/C#/x64/
+src/test/C#/x86/
+src/test/C#/build/
+src/test/C#/bld/
+src/test/C#/[Bb]in/
+src/test/C#/[Oo]bj/
+src/test/C#/[Oo]ut/
+src/test/C#/msbuild.log
+src/test/C#/msbuild.err
+src/test/C#/msbuild.wrn
